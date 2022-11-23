@@ -1,0 +1,10 @@
+# TODO: Importez vos modules ici
+import math
+from collections import Counter
+import turtle
+
+
+# TODO: Définissez vos fonction ici
+#Cest quoi qu'il faut faire et c'est quoi la librairie turtle
+#QUESTION 3:
+

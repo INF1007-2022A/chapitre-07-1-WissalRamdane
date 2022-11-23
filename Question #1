@@ -1,0 +1,25 @@
+
+# TODO: Importez vos modules ici
+import math
+
+
+
+# TODO: Définissez vos fonction ici
+#QUESTION 1 :
+def volume(a,b,c):
+    a=1
+    b=2
+    c=3
+
+    volume=4/3*math.pi*a*b*c
+    print(volume)
+def masse_volumique(m,volume):
+
+    m=4
+    masse_volumique=m/volume
+    print(masse_volumique)
+
+
+return volume,masse_volumique
+
+
